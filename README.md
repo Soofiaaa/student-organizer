@@ -16,7 +16,7 @@ It is currently not working right now since I worked on the student only.
 
 ## Question
 If anybody has questions or suggestions about the program, feel free to contact me. <br/>
-Discord ➔ ~/sofia#6666
+Discord ➔ ~/sofia#4047
 
 ## Bye
 Hope y'all enjoy it. <br/>
